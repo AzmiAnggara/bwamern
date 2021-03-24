@@ -1,0 +1,284 @@
+{
+  "hero": { "pelanggan": 218, "foto": 4, "catering": 13 },
+  "mostPicked": [
+    {
+      "unit": "porsi",
+      "imageId": [
+        {
+          "_id": "5ec564977999d22850ca6330",
+          "imageUrl": "images/1614723943569.jpg"
+        },
+        {
+          "_id": "5ec564977999d22850ca6331",
+          "imageUrl": "images/1614723943811.jpg"
+        }
+      ],
+      "_id": "5ec564977999d22850ca632e",
+      "title": "Paket Kantoran",
+      "price": 20000,
+      "min_order": 10
+    },
+    {
+      "unit": "porsi",
+      "imageId": [
+        {
+          "_id": "5ec688dd5c07764c50a25e47",
+          "imageUrl": "images/1590069468865.jpg"
+        },
+        {
+          "_id": "5ec688dd5c07764c50a25e48",
+          "imageUrl": "images/1590069468994.jpg"
+        },
+        {
+          "_id": "5ec688dd5c07764c50a25e49",
+          "imageUrl": "images/1590069468998.jpg"
+        }
+      ],
+      "_id": "5ec688dd5c07764c50a25e46",
+      "title": "Paket Buka Puasa",
+      "price": 15000,
+      "min_order": 10
+    },
+    {
+      "unit": "porsi",
+      "imageId": [
+        {
+          "_id": "5ec689fa5c07764c50a25e4b",
+          "imageUrl": "images/1590069753641.jpg"
+        },
+        {
+          "_id": "5ec689fa5c07764c50a25e4c",
+          "imageUrl": "images/1590069754003.jpg"
+        },
+        {
+          "_id": "5ec689fa5c07764c50a25e4d",
+          "imageUrl": "images/1590069754006.jpg"
+        }
+      ],
+      "_id": "5ec689fa5c07764c50a25e4a",
+      "title": "Paket Prasmanan",
+      "price": 12000,
+      "min_order": 5
+    },
+    {
+      "unit": "porsi",
+      "imageId": [
+        {
+          "_id": "5ec68aaa5c07764c50a25e4f",
+          "imageUrl": "images/1590069930423.jpg"
+        },
+        {
+          "_id": "5ec68aaa5c07764c50a25e50",
+          "imageUrl": "images/1590069930470.jpg"
+        },
+        {
+          "_id": "5ec68aaa5c07764c50a25e51",
+          "imageUrl": "images/1590069930472.jpg"
+        }
+      ],
+      "_id": "5ec68aaa5c07764c50a25e4e",
+      "title": "Pesta Pernikahan",
+      "price": 20000,
+      "min_order": 20
+    },
+    {
+      "unit": "porsi",
+      "imageId": [
+        {
+          "_id": "5ec68af95c07764c50a25e53",
+          "imageUrl": "images/1590070009500.jpg"
+        },
+        {
+          "_id": "5ec68af95c07764c50a25e54",
+          "imageUrl": "images/1590070009535.jpg"
+        },
+        {
+          "_id": "5ec68af95c07764c50a25e55",
+          "imageUrl": "images/1590070009538.jpg"
+        }
+      ],
+      "_id": "5ec68af95c07764c50a25e52",
+      "title": "Paket Super Hemat",
+      "price": 10000,
+      "min_order": 5
+    }
+  ],
+  "category": [
+    {
+      "itemId": [
+        {
+          "isPopular": true,
+          "imageId": [
+            {
+              "_id": "5ec564977999d22850ca6330",
+              "imageUrl": "images/1614723943569.jpg"
+            }
+          ],
+          "_id": "5ec564977999d22850ca632e",
+          "title": "Paket Kantoran",
+          "min_order": 10
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec688dd5c07764c50a25e47",
+              "imageUrl": "images/1590069468865.jpg"
+            }
+          ],
+          "_id": "5ec688dd5c07764c50a25e46",
+          "title": "Paket Buka Puasa",
+          "min_order": 10
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec689fa5c07764c50a25e4b",
+              "imageUrl": "images/1590069753641.jpg"
+            }
+          ],
+          "_id": "5ec689fa5c07764c50a25e4a",
+          "title": "Paket Prasmanan",
+          "min_order": 5
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec68af95c07764c50a25e53",
+              "imageUrl": "images/1590070009500.jpg"
+            }
+          ],
+          "_id": "5ec68af95c07764c50a25e52",
+          "title": "Paket Super Hemat",
+          "min_order": 5
+        }
+      ],
+      "_id": "5eb9d5ee0c0d4e3858afa1f8",
+      "name": "Catering Paket Hemat"
+    },
+    {
+      "itemId": [
+        {
+          "isPopular": true,
+          "imageId": [
+            {
+              "_id": "5ec68aaa5c07764c50a25e4f",
+              "imageUrl": "images/1590069930423.jpg"
+            }
+          ],
+          "_id": "5ec68aaa5c07764c50a25e4e",
+          "title": "Pesta Pernikahan",
+          "min_order": 20
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec68bec5c07764c50a25e57",
+              "imageUrl": "images/1590070252621.jpg"
+            }
+          ],
+          "_id": "5ec68bec5c07764c50a25e56",
+          "title": "Paket Aqiqah",
+          "min_order": 100
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec68cf05c07764c50a25e5b",
+              "imageUrl": "images/1590070512229.jpg"
+            }
+          ],
+          "_id": "5ec68cf05c07764c50a25e5a",
+          "title": "Paket Ulang Tahun",
+          "min_order": 10
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec68dc65c07764c50a25e5f",
+              "imageUrl": "images/1590070726223.jpg"
+            }
+          ],
+          "_id": "5ec68dc65c07764c50a25e5e",
+          "title": "Paket Random",
+          "min_order": 10
+        }
+      ],
+      "_id": "5eb9d5fe0c0d4e3858afa1f9",
+      "name": "Catering Pesta dan Pernikahan"
+    },
+    {
+      "itemId": [
+        {
+          "isPopular": true,
+          "imageId": [
+            {
+              "_id": "5ec68e375c07764c50a25e67",
+              "imageUrl": "images/1590070838755.jpg"
+            }
+          ],
+          "_id": "5ec68e365c07764c50a25e66",
+          "title": "Pecel Pitek",
+          "min_order": 1
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec68e575c07764c50a25e6b",
+              "imageUrl": "images/1590070870717.jpg"
+            }
+          ],
+          "_id": "5ec68e565c07764c50a25e6a",
+          "title": "Ayam Bakar",
+          "min_order": 1
+        },
+        {
+          "isPopular": false,
+          "imageId": [
+            {
+              "_id": "5ec68e7c5c07764c50a25e6f",
+              "imageUrl": "images/1590070908440.jpg"
+            }
+          ],
+          "_id": "5ec68e7c5c07764c50a25e6e",
+          "title": "Ayam Pedas",
+          "min_order": 1
+        }
+      ],
+      "_id": "5eb9d60a0c0d4e3858afa1fa",
+      "name": "Paket Jomblo"
+    }
+  ],
+  "testimonial": [
+    {
+      "_id": "5ec5b507d80595bc6c1896a6",
+      "name": "Anggun Dita",
+      "pekerjaan": "Design Busana",
+      "content": "Saya Puas dengan pelayanan dari Catering Kita, saya akan pesan lagi besok",
+      "imageUrl": "/images/testi1.jpg",
+      "rate": "4.4"
+    },
+    {
+      "_id": "5ec5b6351c2bba859af2d18a",
+      "name": "Enggar Dewi",
+      "pekerjaan": "Apoteker",
+      "content": "Cara pesan yang mudah dan juga pelayanannya cepat. recomended buat teman\" yang ingin praktis dalam makan siang",
+      "imageUrl": "/images/testi2.jpg",
+      "rate": "4.8"
+    },
+    {
+      "_id": "5ec5b6721c2bba859af2d18b",
+      "name": "Theo San",
+      "pekerjaan": "Web Developer",
+      "content": "Saya suka pesan di Catering Kita, bisa pesan makanan yang berbeda setiap harinya. Saya jadi tidak perlu repot bawa bekal",
+      "imageUrl": "/images/testi3.jpg",
+      "rate": "5"
+    }
+  ]
+}
